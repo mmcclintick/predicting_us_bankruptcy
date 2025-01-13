@@ -1,0 +1,1 @@
+Using Altman Z-score theory and variable metrics of US bankruptcy data, we created a regression analysis to predict American company bankruptcy based on input data. Filtered key variables, removed overlap, identified major predictors in a logistic regression and determined model accuracy with a confusion matrix. Compared vs. a different model.
